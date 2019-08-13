@@ -16,5 +16,5 @@ python3 animGif.py fileLoc reps
 
 ## Demo
 
-![Demo] (demo/demo.gif)
+![Demo](demo/demo.gif)
 
