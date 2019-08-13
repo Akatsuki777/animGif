@@ -13,7 +13,7 @@ python3 animGif.py fileLoc reps
 ## Requirements
 
   - Python 3+ : Python 2 doesn't recognize the `u\u2588` character `█` 
-
+  - Pillow    : Pillow is required for image processing.
 ## Demo
 
 ![Demo](demo/demo.gif)
