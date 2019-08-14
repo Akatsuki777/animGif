@@ -1,5 +1,5 @@
 # animGif
-Script for turning gifs to animations running in terminal via curses.
+Script for turning binary colored gifs to animations running in terminal via curses.
 
 ## Usage
 
