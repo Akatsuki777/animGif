@@ -33,7 +33,7 @@ def writeScreen(stdscr,stringContainer,i,j,reps):
 	blackBox = str(u'\u2588'+u'\u2588')
 	w,h = sizeWindow
 	y = int(i/w)-1
-	x = ((i+2)%w)
+	x = ((i)%w)*2
 
 	for k in range(i,j):
 		if(k%w == 0):
